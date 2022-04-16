@@ -1,0 +1,5 @@
+Analysis:
+
+1)Charter school has highere average math score and reading score and highest passing percentage
+2)Schools with the size between 1000-2000 or schools with the size less than 2000 has highest passing percentage and average math score and reading score
+3)Schools with budget less than 615$ has highest average math scores reading scoresand %passing math and %passing reading scores
